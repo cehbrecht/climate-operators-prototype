@@ -1,0 +1,16 @@
+# conda env create -f environment.yml
+name: copdemo
+channels:
+  - conda-forge
+dependencies:
+  - pip
+  # jupyter
+  - jupyterlab
+  # xarray
+  - xarray
+  - dask
+  - netcdf4
+  - matplotlib
+  - xesmf
+  - pip:
+    - -e git+https://github.com/NCAR/xncml@master#egg=xncml
