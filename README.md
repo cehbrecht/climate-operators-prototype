@@ -32,5 +32,7 @@ ESMValTool has a library of known data corrections:
 ## Data services with fixes
 
 Ouranos likes to have a data service layer on top of this original data pool with fixes.
-Using xncml:
+
+Using ncml:
+* https://github.com/axiom-data-science/pyncml
 * https://github.com/NCAR/xncml

@@ -12,5 +12,6 @@ dependencies:
   - netcdf4
   - matplotlib
   - xesmf
+  - pyncml
   - pip:
     - -e git+https://github.com/NCAR/xncml@master#egg=xncml
