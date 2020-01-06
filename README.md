@@ -36,3 +36,6 @@ Ouranos likes to have a data service layer on top of this original data pool wit
 Using ncml:
 * https://github.com/axiom-data-science/pyncml
 * https://github.com/NCAR/xncml
+
+Collection issues:
+* https://github.com/Ouranosinc/pavics-vdb/issues
