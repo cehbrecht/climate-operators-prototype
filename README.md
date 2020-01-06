@@ -15,6 +15,14 @@ Registry could be a database tracking issues and solutions:
 * https://dbdiagram.io/home
 * https://dbdiagram.io/d/5dea43fcedf08a25543eca8f
 
+### Operators
+
+Subsetting with xarray:
+* http://xarray.pydata.org/en/stable/
+
+Regridding with xesmf:
+* https://xesmf.readthedocs.io/en/latest/
+
 ## ESMValTool data correntions
 
 ESMValTool has a library of known data corrections:
