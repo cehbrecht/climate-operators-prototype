@@ -9,6 +9,8 @@ Prototype for reliable Climate Operators
 * using xarray
 * uses a registry to maintain data fixes and operator solutions
 
+Goal: A common solution for Copernicus, CEDA, Ouranos, ESMValTool, ESGF, ...
+
 ### Registry
 
 Registry could be a database tracking issues and solutions:
