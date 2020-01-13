@@ -23,7 +23,7 @@ Subsetting with xarray:
 Regridding with xesmf:
 * https://xesmf.readthedocs.io/en/latest/
 
-## ESMValTool data correntions
+## ESMValTool data corrections
 
 ESMValTool has a library of known data corrections:
 * https://github.com/ESMValGroup/ESMValCore/tree/master/esmvalcore/cmor/_fixes
