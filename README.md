@@ -95,6 +95,9 @@ How do we identify that the operation was correct?
 * output data should be like the input data except for the changes by the operation.
 * ???
 
+Performance testing:
+* [xclim benchmark](https://github.com/Ouranosinc/xclim-benchmark) example using [pyperf](https://pypi.org/project/pyperf/).
+
 ## Thoughts on the WPS service
 
 How do we define the inputs?
