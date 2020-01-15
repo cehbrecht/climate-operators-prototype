@@ -39,8 +39,11 @@ Using ncml:
 * https://github.com/axiom-data-science/pyncml
 * https://github.com/NCAR/xncml
 
-Collection issues:
+Collecting issues:
 * https://github.com/Ouranosinc/pavics-vdb/issues
+
+Examples:
+* [WPS process](https://github.com/bird-house/emu/pull/97) with ncml aggregation.
 
 
 ## Thoughts on data correction library
