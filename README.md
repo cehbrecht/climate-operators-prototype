@@ -69,6 +69,10 @@ Advantages of a virtual data layer:
 * We might not need to provide an additional data-pool like C3S-CORDEX. Fixes will be applied to the library.
 * There is no *data sync* step for new fixes. Just update the virtual data layer.
 
+FUSE links:
+* https://www.cs.nmsu.edu/~pfeiffer/fuse-tutorial/
+* https://en.wikipedia.org/wiki/Filesystem_in_Userspace 
+
 ## Thoughts on Operators
 
 The xclim library by ouranos contains subsetting with xarray for bbox, shape, time, ...:
